@@ -52,8 +52,8 @@ packages:
       '@ctrl/tinycolor': 3.6.0
     dev: false
 
-  /@ant-design/cssinjs@1.10.1(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-PSoJS8RMzn95ZRg007dJGr6AU0Zim/O+tTN0xmXmh9CkIl4y3wuOr2Zhehaj7s130wPSYDVvahf3DKT50w/Zhw==}
+  /@ant-design/cssinjs@1.11.0(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-FZzj+kPobxLsMltygmca8nc+/dOYUiJZP/f1+MH6phuCWCNSX5QNWoZurp/lcfXZMR8WvLIcSv/BlLY/WD18YQ==}
     peerDependencies:
       react: '>=16.0.0'
       react-dom: '>=16.0.0'
@@ -542,7 +542,7 @@ packages:
       react-dom: '>=16.9.0'
     dependencies:
       '@ant-design/colors': 7.0.0
-      '@ant-design/cssinjs': 1.10.1(react-dom@18.2.0)(react@18.2.0)
+      '@ant-design/cssinjs': 1.11.0(react-dom@18.2.0)(react@18.2.0)
       '@ant-design/icons': 5.1.4(react-dom@18.2.0)(react@18.2.0)
       '@ant-design/react-slick': 1.0.1(react@18.2.0)
       '@babel/runtime': 7.22.5
