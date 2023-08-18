@@ -70,7 +70,15 @@ export default function Home() {
         </Row>
       </Layout.Header>
       <Layout>
-        <Layout.Sider style={{ backgroundColor: colorBgLayout }}>
+        <Layout.Sider
+          style={{
+            backgroundColor: colorBgLayout,
+            position: 'sticky',
+            top: 0,
+            minHeight: '100vh',
+            maxHeight: '100vh',
+          }}
+        >
           <Menu
             defaultSelectedKeys={['User management']}
             defaultOpenKeys={['Dashboard']}
