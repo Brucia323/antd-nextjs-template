@@ -9,19 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@ant-design/cssinjs": "^1.16.2",
-    "@ant-design/icons": "^5.2.5",
-    "@types/node": "20.5.0",
-    "@types/react": "18.2.20",
-    "@types/react-dom": "18.2.7",
-    "antd": "^5.8.3",
-    "eslint": "8.47.0",
-    "eslint-config-next": "13.4.18",
-    "eslint-config-prettier": "^9.0.0",
-    "next": "13.4.18",
-    "prettier": "^3.0.2",
+    "@ant-design/cssinjs": "^1.18.0",
+    "@ant-design/icons": "^5.2.6",
+    "@types/node": "20.10.3",
+    "@types/react": "18.2.42",
+    "@types/react-dom": "18.2.17",
+    "antd": "^5.12.1",
+    "eslint": "8.55.0",
+    "eslint-config-next": "14.0.3",
+    "eslint-config-prettier": "^9.1.0",
+    "next": "14.0.3",
+    "prettier": "^3.1.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "typescript": "5.1.6"
+    "typescript": "5.3.3"
   }
 }
