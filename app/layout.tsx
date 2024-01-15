@@ -1,6 +1,6 @@
 import 'antd/dist/reset.css';
-import StyledComponentsRegistry from '@/lib/antd-registry';
 import React from 'react';
+import { AntdRegistry } from '@ant-design/nextjs-registry';
 
 export const metadata = {
   title: 'Create Next App',
@@ -15,7 +15,7 @@ export default function RootLayout({
   return (
     <html lang="zh-Hans">
       <body>
-        <StyledComponentsRegistry>{children}</StyledComponentsRegistry>
+        <AntdRegistry>{children}</AntdRegistry>
       </body>
     </html>
   );

@@ -16,9 +16,10 @@ import {
   Row,
   Space,
   Table,
-  Typography,
   theme,
+  Typography,
 } from 'antd';
+import React from 'react';
 
 interface DataType {
   key: React.Key;
